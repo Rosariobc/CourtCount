@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Margins and Paddings-->
+    <dimen name="paddingButton">8dp</dimen>
+    <dimen name="marginButton">8dp</dimen>
+    <dimen name="paddingScore">8dp</dimen>
+
+
+    <dimen name="generalMargin">8dp</dimen>
+    <dimen name="generalPadding">8dp</dimen>
+
+    <!--Text Sizes-->
+    <dimen name="textTitle">20sp</dimen>
+    <dimen name="textRegular">15sp</dimen>
+    <dimen name="textScore">50sp</dimen>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Basketball Court Count</string>
+
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="initial">0</string>
+    <string name="plus3">+ 3 Points</string>
+    <string name="plus2">+ 2 Points</string>
+    <string name="free">Free Throw</string>
+    <string name="period">Increase Period Number</string>
+    <string name="reset">Reset</string>
+
+
+</resources>
